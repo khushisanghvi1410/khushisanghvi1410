@@ -28,7 +28,7 @@
 ---
 
 ### 📂 Projects
-- 🔗 **[Logic Gates in Verilog](#)** – Simulated basic AND, OR, NOT gates using Icarus Verilog & GTKWave.
+- 🔗 **** – Simulated basic AND, OR, NOT gates using Icarus Verilog & GTKWave.
 - 🔗 **[4-bit ALU](#)** – Arithmetic and Logic Unit supporting add, subtract, AND, OR.
 - 🔗 **[Mini CPU Design](#)** – Simple instruction set processor in Verilog.
 
