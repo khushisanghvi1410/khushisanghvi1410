@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushi Sanghvi</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Focused on Digital Design, RTL Coding, and Building the Future of Chip Technology</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7aa780f97d51af2b67ff9ca2afa89ef67907c7b21abe9c7f8fb63fa707cf629a/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
 - 👨‍💻 All of my projects are available at [https://github.com/khushisanghvi1410](https://github.com/khushisanghvi1410)
 
